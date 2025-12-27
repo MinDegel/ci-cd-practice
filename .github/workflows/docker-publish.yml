@@ -54,4 +54,4 @@ jobs:
           context: .
           push: true
           # 镜像名称需全部小写
-          tags: ghcr.io/${{ github.repository_owner }}/ci-cd-practice:latest
+          tags: ghcr.io/mindegel/ci-cd-practice:latest
